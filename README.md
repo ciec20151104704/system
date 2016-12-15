@@ -1,11 +1,11 @@
-# system
 计算机系统与原理
 刘锦江
-摘要：自计算机出现以来，计算机技术层出不穷，随着实际的需要，计算机系统越来越完善。本文为探究计算机系统的原理，从计算机的发展历史出发，计算机的结构和运作方式，
-关键词：arduinou 计算机系统 指针 硬件 软件
+摘要：自计算机出现以来，计算机技术层出不穷，随着实际的需要，计算机系统越来越完善。本文为作者通过学习了计算机系统基本课程后从计算机的发展历史出发，学习计算机的结构和运作方式而对计算机系统的原理，指针，arduinou的理解和认识。
+关键词：计算机系统 arduinou 指针
 Computer systems and principles 
 LIU Jinjiang
-Abstract: 
+Abstract: Since the emergence of computer computer technology emerge in endlessly, with the actual need, the computer system is more and more perfect. In this paper, the author through the study for the computer system after starting from the development history of computer basic course, structure and operating mode of learning computer and the principle of the computer system, a pointer, arduinou understanding and awareness.
+
 Key words: arduinou  computer system    hardware   software 
 0引言：计算机的出现改变了人的生活， 
 1.计算机系统
