@@ -48,6 +48,8 @@ Key words: arduinou  computer system    hardware   software
 3.指针
 4．Arduinou
 5.结论
+    通过本阶段的学习，笔者收获到了很重要的知识，有了对计算机系统的理解，并更有信心完成接下来的学习，相信在未来可以更出色的完成编程。
+    
 
     
 
