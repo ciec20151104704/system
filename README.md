@@ -1,12 +1,12 @@
 计算机系统与原理
 刘锦江
-摘要：自计算机出现以来，计算机技术层出不穷，随着实际的需要，计算机系统越来越完善。本文为作者通过学习了计算机系统基本课程后从计算机的发展历史出发，学习计算机的结构和运作方式而对计算机系统的原理，指针，arduinou有了初步的理解和认识。
-关键词：计算机系统 arduinou 指针
+摘要：自计算机出现以来，计算机技术层出不穷，随着实际的需要，计算机系统越来越完善。本文为作者通过学习了计算机系统基本课程后从计算机的发展历史出发，学习计算机的结构和运作方式而对计算机系统的原理，指针，arduino有了初步的理解和认识。
+关键词：计算机系统 arduino 指针
 Computer systems and principles 
 LIU Jinjiang
-Abstract: Since the emergence of computer computer technology emerge in endlessly, with the actual need, the computer system is more and more perfect. In this paper, the author through the study for the computer system after starting from the development history of computer basic course, structure and operating mode of learning computer and the principle of the computer system, a pointer, arduinou understanding and awareness.
+Abstract: Since the emergence of computer computer technology emerge in endlessly, with the actual need, the computer system is more and more perfect. In this paper, the author through the study for the computer system after starting from the development history of computer basic course, structure and operating mode of learning computer and the principle of the computer system, a pointer, arduino understanding and awareness.
 
-Key words: arduinou  computer system    hardware   software 
+Key words: arduino  computer system    
 0引言：通过对计算机系统的学习，我们已经对计算机系统有了初步的理解和认识，该如何更进一步的收获计算机方面 的知识？这就需要我们对各种计算机系统的软硬件进行学习，实际操作计算机编程是我们进步的一条必经之路，相信通过认真而又刻苦的努力，我们几计算机水平会更上一层楼。
 1.计算机系统
 1.1计算机系统的发展历史你们通过控制
@@ -46,10 +46,31 @@ Key words: arduinou  computer system    hardware   software
 一般包括两类：为特定需要开发（订票软件，教学软件，计算软件）
               为方便用户使用（工具软件）：Word
 3.指针
-4．Arduinou
+    
+4．Arduino
+Arduino是一款便捷灵活、方便上手的开源电子原型平台，包含硬件(各种型号的Arduino板)和软件(Arduino IDE)。它适用于爱好者、艺术家、设计师和对于"互动"有兴趣的朋友们。
+特色：1、开放源代码的电路图设计，程序开发接口免费下载，也可依个人需求自己修改。
+2、使用低价格的微处理控制器(AVR系列控制器)，可以采用USB接口供电，不需外接电源，也可以使用外部9VDC输入。
+3、Arduino支持ISP在线烧，可以将新的"bootloader"固件烧入AVR芯片。有了bootloader之后，可以通过串口或者USB to RS232线更新固件。
+4、可依据官方提供的Eagle格式PCB和SCH电路图简化Arduino模组，完成独立运作的微处理控制;可简单地与传感器，各式各样的电子元件连接(例如:红外线,超音波,热敏电阻,光敏电阻,伺服马达,…等)
+5、支持多种互动程序，如:Flash、Max/Msp、vvvv、PD、C、Processing等。
+6、应用方面，利用Arduino，突破以往只能使用鼠标、键盘、CCD等输入的装置的互动内容，可以更简单地达成单人或多人游戏互动。
+功能：
+可以快速使用Arduino与Adobe Flash, Processing, Max/MSP, Pure Data, SuperCollider等软件结合，作出互动作品。 Arduino可以使用现有的电子元件例如开关或者传感器或者其他控制器件、LED、步进马达或其他输出装置。 Arduino也可以独立运行，并与软件进行交互，例如: Macromedia Flash, Processing, Max/MSP, Pure Data, VVVV或其他互动软件…。 Arduino的IDE界面基于开放源代码，可以免费下载使用，开发出更多令人惊艳的互动作品。
+*基于知识共享开放元源码的电路图设计
+*基于知识共享开放源码的程式开发环境
+*免费下载，也可依需求修改!遵照姓名标示。必须按照作者或授权人所指定的方式，表彰其姓名
+*依相同方式分享，若改变、转变著作，当散布该衍生著作时，需采用与本著作相同或类似的授权条款
+* Arduino可使用ICSP线上烧入器，将「bootloader」烧入新的IC晶片
+*可依据官方电路图，简化Arduino模组，完成独立运作的微处理控制
+*可简单地与传感器，各式各样的电子元件连接(例如:红外线，超声波，热敏电阻，光敏电阻，伺服马达等)
+*使用低价格的微处理控制器(ATMEGA 8-2560)
+* USB接口，不需外接电源。另外有提供9V直流电源输入
+*应用方面，利用Arduino，突破以往只能使用鼠标，键盘，CCD等输入的装置进行互动内容的设计，可以更简单地达成单人或多人游戏互动。
+
+
 5.结论
     通过本阶段的学习，笔者收获到了很重要的知识，有了对计算机系统的理解，并更有信心完成接下来的学习，相信在未来可以更出色的完成编程。
-    
+    参考文献：360 百科
 
-    
 
